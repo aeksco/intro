@@ -1,7 +1,7 @@
 # SMALL GROUPS
 
 Rensselaer Center for Open Source
-![Logo](assets/logo.png)
+![Logo](https://raw.githubusercontent.com/aeksco/intro/docsify/slides/assets/logo.png)
 
 ---
 
