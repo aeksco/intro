@@ -9,47 +9,108 @@ Use this document to write down any ideas for RCOS Fall 2018 - feel free to crea
 - How many sessions?
 - What to cover?
 
+
 ### RCOS Task Force
-- Sponsorship - find net RCOS sponsors, maintain relations with existing sponsors
-- Volunteering - coordinate volunteer efforts for RCOS students
-- External Outreach - find external projects RCOS can contribute to
-- Internal Outreach - network with other RPI organizations
-- Education - curates materials for self-education in RCOS
-- Treasurer - tracks and manages RCOS funds
-- Equipment - tracks and manages RCOS equipment
-- Professional Development  - organizes CCPD events
-- Recruiting - interfaces with recruiters who can give RCOS students coop/intern/job
-- Mozilla Open Source Student Network - can fall under pervue of another Task Force
-- Event Organization - hackathons, codejams, casual coding sessions
-- RCOS Blog - Editor-in-Chief, curation, etc.
+(todo - rename "task force")
+
+- Sponsorship
+  - find new RCOS sponsors
+  - maintain relations with existing sponsors
+  - document the process
+
+- Volunteering
+  - coordinate volunteer efforts for RCOS students
+  - document the process
+
+- External Outreach
+  - Find external projects RCOS can contribute to
+  - Mozilla Open Source Student Network
+  - Social Media
+  - RCOS Blog - Editing, curation, etc.
+
+- Internal Outreach
+  - coordinates & networks with other RPI individuals & organizations
+  - WTG, SWE, RPI-SEC
+
+- Education
+  - curates materials for self-education in RCOS
+
+- Funds & Equipment
+  - tracks and manages RCOS funds (treasurer, essentially)
+  - tracks and manages RCOS equipment
+
+- Professional Development
+  - organizes CCPD events
+  - interface with recruiters who can offer RCOS students coops/internships
+  - resume events
+
+- Event Organization
+  - hackathons
+  - codejams
+  - casual coding sessions
+  - food & beverage
 
 ### Blog Posts
 - More granularity in the blog posts
 - Split into public blog, internal blogs, status updates
 
+
 ### TODO
 - Must select 2 coordinators to attend Mozilla meetup -> Alex wants to go!
 - Any avenue for RCOS to become communication intensive?
 
-### Grading
+
+### Format
 - Attendance + Bonus Session Attendance
+
 - Issues / Milestones / Contributions
-- Status Updates (one-per-week, instead of blog posts)
-- Blog Post - one per project
-- Large Group Presentations - Introduce time limits, structure for presentations
+
+- Status Updates
+  - one-per-week, required
+  - it's okay if you have a week where you don't get any work done
+  - eases burden of writing "filler" blog posts
+  - easier for mentors / coordinators to gauge on-going work
+
+- Blog Post
+  - one required per-project, per-semester
+
+- Sick Picks
+  - first/second/third/fourth friday of every month
+  - share some tech you've been using
+  - Enforce format (i.e. 1 slide, 2 minute max)
+
+- Lightning Talks
+  - first/second/third/fourth friday of every month
+  - Enforce format (i.e. 1 slide, 2 minute max)
+
+- Large Group Presentations
+  - 1 required per-team, per-semester
+  - Enforce time limits, structure for presentations
+
 - OTHER
+  - Lightning Talks
+  - Sick Picks
+  - Task Force positions
   - On-going project-specific blog
   - External Contributions
-  - Task Force work
-  - RCOS EXPO
-  - Lightning Talks
   - Bonus Sessions
+  - RCOS EXPO
+
+### Grading
+
+###  RCOS EXPO
+- Opportunity for the RCOS community to interface with the broader RPI community
+- One-day event, weekend?
+- Posters, talks, guest speakers, sponsors
+- Opportunities for longer project-specific presentations
+- Reserve DCC for a Saturday?
+
 
 ### RCOS Bible
 - Read The Docs?
 - DOCUMENT EVERYTHING
 - Every possibility must be accounted for - RCOS Constitution?
-Meh
+- Every Task Force member / Mentor / Coordinator MUST contribute to the overall documentation
 
 
 ### External Mentoring
