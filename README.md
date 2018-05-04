@@ -1,3 +1,5 @@
+![Logo](https://raw.githubusercontent.com/aeksco/intro/docsify/slides/assets/logo.png)
+
 # RCOS Intro
 
 This repository exists to introduce each new semester of RCOS. The presentation folder contains a [reveal.js](https://github.com/hakimel/reveal.js) presentation that is shown on the first day of class. This README contains all the information in the presentation in a bit more detail.
@@ -36,7 +38,7 @@ There are several groups of people in RCOS, often broken up by experience level.
 
 There are also members of RCOS outside RPI...
 * **External Members** - Any member of RCOS outside of RPI, this includes RCOS alumni and RCOS affiliates.
-* **External Mentors** - Previous RCOS members or interested individuals can mentor RCOS without being on the RPI campus. External mentors bring unique perspectives and project opportunities to RCOS. 
+* **External Mentors** - Previous RCOS members or interested individuals can mentor RCOS without being on the RPI campus. External mentors bring unique perspectives and project opportunities to RCOS.
 
 As mentioned above, there are two types of meetings in RCOS. **Small Group** meetings are run by a mentor that you choose or (if you don't choose) is chosen at the beginning of the semester for you. **Large Group** meetings are run by coordinators and allow members to speak to all of RCOS about what they're working on or teach new or interesting technologies.
 
@@ -66,7 +68,7 @@ Finding a team in RCOS isn't a requirement, but can often make RCOS easier for e
 
 ## Code of Conduct
 
-Our **Community Code of Conduct** outlines some common ground rules all RCOS members are expected to abide by in order to make RCOS an inclusive experience for everyone. You can find the RCOS Community Code of Conduct [here](https://github.com/rcos/intro/blob/master/docs/code_of_conduct.md). 
+Our **Community Code of Conduct** outlines some common ground rules all RCOS members are expected to abide by in order to make RCOS an inclusive experience for everyone. You can find the RCOS Community Code of Conduct [here](https://github.com/rcos/intro/blob/master/docs/code_of_conduct.md).
 
 In addition to following the Community Code of Conduct, we strongly suggest that your project's repository includes a Code of Conduct as well. You can find a Code of Conduct template for your project that includes an abbreviated version of our Code of Conduct as well as space for any project-specific ground rules [here](https://github.com/rcos/intro/blob/master/docs/project_coc_template.md). In addition, Github has instructions on including a Code of Conduct in your project [here](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/).
 
