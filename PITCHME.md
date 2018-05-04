@@ -114,48 +114,44 @@ Bonus Sessions (Workshops) on a rolling basis<br/>
 
 ### Small Groups
 
-<ul>
-    <li class='fragment'>Lead by a small group of mentors</li>
-    <li class='fragment'>Typically about 20 people to a small group</li>
-    <li class='fragment'>Attendance is taken (2 absences are excused)</li>
-    <li class='fragment'>Mentor freedom!</li>
-</ul>
+
+    - Lead by a small group of mentors
+    - Typically about 20 people to a small group
+    - Attendance is taken (2 absences are excused)
+    - Mentor freedom!
 
 ---
 
 ### Large Groups
 
-<ul>
-    <li class='fragment'> Lead by coordinators </li>
-    <li class='fragment'> Guest speakers! </li>
-    <li class='fragment'> Attendance is taken (2 absencse are allowed) </li>
-    <li class='fragment'> One large group presentation per team </li>
-    <li class='fragment'> New this semester: Lightning talks! </li>
-</ul>
+
+    -  Lead by coordinators
+    -  Guest speakers!
+    -  Attendance is taken (2 absencse are allowed)
+    -  One large group presentation per team
+    -  New this semester: Lightning talks!
 
 ---
 
 ### Casual Coding Sessions
 
-<ul>
-    <li class='fragment'> Open to all! (not just members) </li>
-    <li class='fragment'> Come and work on whatever you want! </li>
-    <li class='fragment'> (not just for coding!) </li>
-    <li class='fragment'> (Every Wednesday at 4PM) </li>
-    <li class='fragment'> Bring your friends! </li>
-</ul>
+
+    -  Open to all! (not just members)
+    -  Come and work on whatever you want!
+    -  (not just for coding!)
+    -  (Every Wednesday at 4PM)
+    -  Bring your friends!
 
 ---
 
 ###  Bonus Sessions
-<ul>
-    <li class='fragment'> Can take the place of a large group attendance </li>
-    <li class='fragment'> Scheduled on a rolling basis </li>
-    <li class='fragment'> (will be on the calendar) </li>
-    <li class='fragment'> More focused workshops, talks on a specific topic </li>
-    <li class='fragment'> Mostly student run, some external presenters </li>
-    <li class='fragment'> Anyone can host one! Just ask us and we'll add it to the calendar! </li>
-</ul>
+
+    -  Can take the place of a large group attendance
+    -  Scheduled on a rolling basis
+    -  (will be on the calendar)
+    -  More focused workshops, talks on a specific topic
+    -  Mostly student run, some external presenters
+    -  Anyone can host one! Just ask us and we'll add it to the calendar!
 
 ---
 
@@ -197,12 +193,11 @@ Bonus Sessions (Workshops) on a rolling basis<br/>
 ---
 
 ### Finding a team (optional)
-<ul>
-    <li class='fragment'>Pitch Day</li>
-    <li class='fragment'>Post on Slack</li>
-    <li class='fragment'>Talk to your mentor</li>
-    <li class='fragment'>Project Speed Dating</li>
-</ul>
+
+- Pitch Day
+- Post on Slack
+- Talk to your mentor
+- Project Speed Dating
 
 ---
 
@@ -212,26 +207,26 @@ Bonus Sessions (Workshops) on a rolling basis<br/>
 ---
 
 ### Getting Help
-<ul class='fragment'>
-    <li class='fragment'>#helpdesk</li>
-    <li class='fragment'>Slack</li>
-    <li class='fragment'>Mentors (Both internal and external)</li>
-    <li class='fragment'>Coordinators</li>
-    <li class='fragment'>Faculty Members</li>
-</ul>
+- #helpdesk
+- Slack
+- Mentors (Both internal and external)
+- Coordinators
+- Faculty Members
 
 ---
 
-### How to be successful (and get an A!)
-<h3>Below are guidelines</h3>
-<ul>
-    <li class='fragment'>Contribute often</li>
-    <li class='fragment'>Communicate and document!</li>
-    <li class='fragment'>Tell us what you're up to (Blog often!)</li>
-    <li class='fragment'>And be involved!</li>
-    <li class='fragment'><a href='https://github.com/rcos/intro'>Read the intro README and GRADING rubric for more details (see How to be Successful...)</a></li>
-    <li class='fragment'><a href='https://github.com/rcos/intro/blob/master/docs/grading.md'>Full Grading Criteria Here</a></li>
-</ul>
+## How to be successful (and get an A!)
+
+---
+
+### Below are guidelines
+
+    - Contribute often
+    - Communicate and document!
+    - Tell us what you're up to (Blog often!)
+    - And be involved!
+    - <a href='https://github.com/rcos/intro'>Read the intro README and GRADING rubric for more details (see How to be Successful...)</a>
+    - <a href='https://github.com/rcos/intro/blob/master/docs/grading.md'>Full Grading Criteria Here</a>
 
 ---
 
@@ -240,12 +235,13 @@ Bonus Sessions (Workshops) on a rolling basis<br/>
 ---
 
 ###  Collaborate more with other organizations
-<h3> We will be working directly with MOSSN! </h3>
+
+#### We will be working directly with MOSSN!
 
 ---
 
-###  Offer alternative ways to learn and get involvh2>
-<h3> Not just coding and projects </h3>
+###  Offer alternative ways to learn and get involved
+#### Not just coding and projects
 
 ---
 
@@ -266,14 +262,21 @@ Bonus Sessions (Workshops) on a rolling basis<br/>
 ---
 
 ###  What happens next?
-<div class='fragment'> Project pitches next Friday! </div>
-<div class='fragment'> Message @aeksco on slack with your slides </br><small>by 11pm on Monday (Jan. 22)</small></div>
-<div class='fragment'> You MUST message Alex with slides!</div>
-<div class='fragment'> Slides MUST be in JPEG format! (Please NO PDF, PPT/X, or Google links!) </div>
-<div class='fragment'> Friday (Jan. 26) - Project speed dating! Find a project! </div>
-<div class='fragment'> DO NOT wait until speed dating to look for a project! Please reach out to at least one prior </div>
-<div class='fragment'> Tuesday (Jan. 30) - Proposal and URPs due! </div>
-<div class='fragment'> Office Hours! Tomorrow (Wednesday the 17th), Wednesday the 24th. Get help finding projects, working on pitches and proposals! </div>
+Project pitches next Friday!
+
+- Message @aeksco on slack with your slides by 11pm on Monday (Jan. 22)
+
+- You MUST message Alex with slides!
+
+- Slides MUST be in JPEG format! (Please NO PDF, PPT/X, or Google links!)
+
+- Friday (Jan. 26) - Project speed dating! Find a project!
+
+- DO NOT wait until speed dating to look for a project! Please reach out to at least one prior
+
+- Tuesday (Jan. 30) - Proposal and URPs due!
+
+- Office Hours! Tomorrow (Wednesday the 17th), Wednesday the 24th. Get help finding projects, working on pitches and proposals!
 
 ---
 
@@ -283,12 +286,10 @@ Bonus Sessions (Workshops) on a rolling basis<br/>
 ---
 
 ### What do you do now?
-<ul>
-    <li class='fragment'>Get on rcos.io, Slack and GitHub</li>
-    <li class='fragment'>Sign up on SIS (CRN 53081 CSCI-4963-01)</li>
-    <li class='fragment'>Find a project</li>
-    <li class='fragment'>Email slides</li>
-</ul>
+- Get on rcos.io, Slack and GitHub
+- Sign up on SIS (CRN 53081 CSCI-4963-01)
+- Find a project
+- Email slides
 
 ---
 
@@ -300,11 +301,14 @@ Bonus Sessions (Workshops) on a rolling basis<br/>
 ### Where are these slides
 <a href='http://rcos.github.com/intro'>rcos.github.com/intro</a>
 
+(rcos.github.com/intro)[http://rcos.github.com/intro]
+
 ---
 
 ### Thanks!
-<h3>Let's have a great semester!!</h3>
+
+#### Let's have a great semester!
 
 ---
 
-### Questions
+### Questions?
