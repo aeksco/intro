@@ -1,6 +1,7 @@
 # CODE OF CONDUCT
 
 Rensselaer Center for Open Source
+![Logo](assets/logo.png)
 
 ---
 

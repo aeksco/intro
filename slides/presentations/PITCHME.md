@@ -1,6 +1,7 @@
 # Presentations
 
 Rensselaer Center for Open Source
+![Logo](assets/logo.png)
 
 ---
 
