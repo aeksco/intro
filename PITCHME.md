@@ -58,6 +58,13 @@ Rensselaer Center for Open Source
 
 ### What is RCOS
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+RCOS is a creative, intellectual and entrepreneurial outlet for students to use the latest open-source software platforms to develop applications that solve societal problems.
+
+(that's our mission statement)
+
+
+---
+
+### What is RCOS
+
+RCOS is also a venue for open learning and student teaching, as well as exploring the world of open source.
