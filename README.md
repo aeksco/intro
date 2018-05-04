@@ -1,5 +1,61 @@
 ![Logo](https://raw.githubusercontent.com/aeksco/intro/docsify/slides/assets/logo.png)
 
+RCOS Fall 2018 Notes & Ideas
+
+Use this document to write down any ideas for RCOS Fall 2018 - feel free to create or add to any categories on this list.
+
+
+### Fall Mentor Training
+- How many sessions?
+- What to cover?
+
+### RCOS Task Force
+- Sponsorship - find net RCOS sponsors, maintain relations with existing sponsors
+- Volunteering - coordinate volunteer efforts for RCOS students
+- External Outreach - find external projects RCOS can contribute to
+- Internal Outreach - network with other RPI organizations
+- Education - curates materials for self-education in RCOS
+- Treasurer - tracks and manages RCOS funds
+- Equipment - tracks and manages RCOS equipment
+- Professional Development  - organizes CCPD events
+- Recruiting - interfaces with recruiters who can give RCOS students coop/intern/job
+- Mozilla Open Source Student Network - can fall under pervue of another Task Force
+- Event Organization - hackathons, codejams, casual coding sessions
+- RCOS Blog - Editor-in-Chief, curation, etc.
+
+### Blog Posts
+- More granularity in the blog posts
+- Split into public blog, internal blogs, status updates
+
+### TODO
+- Must select 2 coordinators to attend Mozilla meetup -> Alex wants to go!
+- Any avenue for RCOS to become communication intensive?
+
+### Grading
+- Attendance + Bonus Session Attendance
+- Issues / Milestones / Contributions
+- Status Updates (one-per-week, instead of blog posts)
+- Blog Post - one per project
+- Large Group Presentations - Introduce time limits, structure for presentations
+- OTHER
+  - On-going project-specific blog
+  - External Contributions
+  - Task Force work
+  - RCOS EXPO
+  - Lightning Talks
+  - Bonus Sessions
+
+### RCOS Bible
+- Read The Docs?
+- DOCUMENT EVERYTHING
+- Every possibility must be accounted for - RCOS Constitution?
+Meh
+
+
+### External Mentoring
+Josh Goldberg has all the notes
+
+
 # RCOS Intro
 
 This repository exists to introduce each new semester of RCOS. The presentation folder contains a [reveal.js](https://github.com/hakimel/reveal.js) presentation that is shown on the first day of class. This README contains all the information in the presentation in a bit more detail.
