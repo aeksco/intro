@@ -3,11 +3,11 @@
   * [Code Of Conduct](CODE_OF_CONDUCT.md)
 
 * Events
+  * [Large Group Meetings](cover.md)
   * [Small Group Meetings](cover.md)
 <!-- * [Stand Up](cover.md) -->
 <!-- * [Presentation Review](cover.md) -->
 <!-- * [Mentor Rounds](cover.md) -->
-  * [Large Group Meetings](cover.md)
 <!-- * [Presentations](cover.md) -->
 <!-- * [Guest Speakers](cover.md) -->
 <!-- * [Lighning Talks](cover.md) -->
@@ -22,16 +22,26 @@
   * [Speed Dating](docs/SpeedDating.md)
   * [Code Of Conduct](docs/code_of_conduct.md)
 
-* Grading
-  * [Overview](docs/grading.md)
+  * [Grading](docs/grading.md)
   * [Contributions](docs/grading/status_updates.md)
   * [Status Updates](docs/grading/status_updates.md)
-  * [Blog Posts](docs/grading/status_updates.md)
-  * [Task Force](docs/grading/status_updates.md)
+  * [Flex](docs/grading/status_updates.md)
+
+* Blogging
+  * [Writing Posts](cover.md)
+  * [Technical Posts](docs/mentors.md)
 
 * Task Force
-  * [Duties](cover.md)
-  * [Training](docs/mentors.md)
+  * [What's Task Force?](cover.md)
+  * [Contributing](cover.md)
+  * [Sponsorship](README.md)
+  * [Volunteering](README.md)
+  * [External Outreach](README.md)
+  * [Internal Outreach](README.md)
+  * [Education](README.md)
+  * [Funds & Equipment](README.md)
+  * [Professional Development](README.md)
+  * [Event Organization](README.md)
 
 * Mentoring
   * [Duties](cover.md)
