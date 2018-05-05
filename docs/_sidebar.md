@@ -1,6 +1,0 @@
-* [Home](../README.md)
-* [Home?](/)
-* [Home Up](/README.md)
-* [Coordinating?](/coordinating/firstweekagenda.md)
-* [Coordinating1](/coordinating/README.md)
-* [Coordinating2](./coordinating/README.md)
